@@ -1,0 +1,1 @@
+Ihr findet das DB Schema und die nötigen inserts in der Datei db_schema.link
